@@ -1,2 +1,2 @@
 # Bikesportal_project1_10hrs
-#very good
+--check screenshots and the introduction to developer files
