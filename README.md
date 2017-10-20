@@ -21,3 +21,6 @@ This app to connected to MYSQL for the DATABASE requirements.
 
 # 5.update frame
 ![](screenshots/updateframe.PNG)
+
+# 6.database screenshot
+![](screenshots/database.PNG)
