@@ -1,5 +1,12 @@
 # Bikesportal
 
+
+“USE TO SELL AND BUY   BIKES “
+CONTAINS FOUR FEATURES FOR THE USER
+ THAT ARE BUY, SELL, SEARCH AND UPDATE.
+This app to connected to MYSQL for the DATABASE requirements.
+
+
 # 1.first frame
 ![](screenshots/frame1.PNG)
 
